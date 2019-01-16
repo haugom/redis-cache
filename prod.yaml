@@ -1,0 +1,6 @@
+---
+context: haugom
+global:
+include:
+  - name: deployment
+
